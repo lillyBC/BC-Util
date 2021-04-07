@@ -55,7 +55,7 @@ Gui.DirectChat = class
 		//Calculate GUI Element Coodinates
 		let x = 400
 		let y = 70
-		let width = 1200
+		let width = 600
 		let height = 725
 		let selectBoxMaxHeightPartner = 600
 
